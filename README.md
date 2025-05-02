@@ -1,4 +1,8 @@
+![Aztec Banner](https://raw.githubusercontent.com/0xAJPanda/Aztec/main/bannerAztec.png)
+
 # 🚀 Aztec Sequencer Node – Quick Start
+...
+
 
 > Earn the `Apprentice` role by running a Sequencer Node on Aztec Testnet.
 
