@@ -72,7 +72,7 @@ aztec-up alpha-testnet
 - **Beacon URL (Free):** `https://rpc.drpc.org/eth/sepolia/beacon`
 
 
-- ** Paid  : [Alchemy](https://www.ankr.com/rpc/?utm_referral=q47m74p398)
+- ** ANKR Paid option : [ANKR](https://www.ankr.com/rpc/?utm_referral=q47m74p398)
 
 ---
 
