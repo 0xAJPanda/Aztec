@@ -71,6 +71,9 @@ aztec-up alpha-testnet
 - **RPC URL (Free):** [Alchemy](https://dashboard.alchemy.com/)  
 - **Beacon URL (Free):** `https://rpc.drpc.org/eth/sepolia/beacon`
 
+
+- ** Paid  : [Alchemy](https://www.ankr.com/rpc/?utm_referral=q47m74p398)
+
 ---
 
 ## 🏃 4. Run the Node
