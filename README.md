@@ -88,6 +88,7 @@ aztec start --node --archiver --sequencer \
 --sequencer.validatorPrivateKey 0xPRIVATE_KEY \
 --sequencer.coinbase 0xYOUR_ADDRESS \
 --p2p.p2pIp YOUR_SERVER_IP
+--p2p.maxTxPoolSize 1000000000 \
 ```
 
 🔁 Replace variables with your actual info.
