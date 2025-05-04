@@ -87,8 +87,8 @@ aztec start --node --archiver --sequencer \
 --l1-consensus-host-urls BEACON_URL \
 --sequencer.validatorPrivateKey 0xPRIVATE_KEY \
 --sequencer.coinbase 0xYOUR_ADDRESS \
---p2p.p2pIp YOUR_SERVER_IP
 --p2p.maxTxPoolSize 1000000000 \
+--p2p.p2pIp YOUR_SERVER_IP  
 ```
 
 🔁 Replace variables with your actual info.
