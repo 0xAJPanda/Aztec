@@ -79,7 +79,8 @@ aztec-up alpha-testnet
 ## 🏃 4. Run the Node
 
 ```bash
-screen -S aztec
+
+ tmux new -s aztec
 
 aztec start --node --archiver --sequencer \
 --network alpha-testnet \
